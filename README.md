@@ -1,6 +1,6 @@
 # Cybersecurity-Portfolio
 
-# Portfolio de Ciberseguridad - 0xKaji
+## 0xKaji
 
 ## Máquinas destacadas
 | Nombre | Plataforma | Vulnerabilidades clave |
